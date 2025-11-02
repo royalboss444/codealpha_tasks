@@ -67,7 +67,6 @@ Below are some preview screenshots of the portfolio website:
 |------------------|---------------|----------------|
 | ![Services](images/demo/services.png) | ![Contact](images/demo/contact.png) 
 
-> 💡 *Add your actual screenshots in the `images/` folder using the same filenames above for automatic preview.*
 
 ---
 
